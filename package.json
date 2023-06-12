@@ -1,11 +1,10 @@
 {
   "name": "keepup.js",
   "description": "Keep up with your readers.",
-  "version": "0.0.1",
+  "version": "0.0.1-beta.0",
   "source": "src/keepup.ts",
   "main": "dist/keepup.js",
   "module": "dist/keepup.module.js",
-  "types": "dist/keepup.d.ts",
   "license": "MIT",
   "repository": "ChrisCavs/keepup.js",
   "author": {
@@ -30,8 +29,8 @@
   "devDependencies": {
     "@parcel/packager-ts": "^2.9.1",
     "@parcel/transformer-typescript-types": "^2.9.1",
-    "@typescript-eslint/eslint-plugin": "^5.59.8",
-    "@typescript-eslint/parser": "^5.59.8",
+    "@typescript-eslint/eslint-plugin": "^5.59.10",
+    "@typescript-eslint/parser": "^5.59.10",
     "eslint": "^8.42.0",
     "parcel": "^2.9.1",
     "typescript": "^5.1.3"
